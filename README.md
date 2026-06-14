@@ -1,9 +1,15 @@
 # desks
 
-This is a stub mirror. The full source code for this commit is at:
+This is a stub mirror. The source code lives on Forgejo.
 
-https://git.bitcicle.com/andy/desks/src/commit/4be9152dcfe84d977c7315bb685b054ccced09c7
+**Repository:** https://git.bitcicle.com/andy/desks
 
-To browse or clone the full repository, visit:
+## Branches
 
-https://git.bitcicle.com/andy/desks
+| Branch | Commit | Link |
+|--------|--------|------|
+| `main` | `4be9152dcfe8` | [view](https://git.bitcicle.com/andy/desks/src/commit/4be9152dcfe84d977c7315bb685b054ccced09c7) |
+
+---
+
+*Last updated: 2026-06-14 18:31:03 UTC*
